@@ -1,0 +1,540 @@
+{
+  "title": "Welcome tothe“Connecting the Dots”Challenge",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Connect thedots",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Are you in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "read",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "learn",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and connect",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "context",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In a worldflooded withdocuments",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Build a beautiful",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Round2",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Then",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Round1",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "surfacesinsights",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Welcome tothe“Connecting the Dots”Challenge",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Headings",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Title",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extracts",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You must builda solution that",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "By building anoutline extractor",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "This outline willbe the foundationfor the rest ofyour hackathonjourney",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H3—inaclean",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H2",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Your job is toextract a structured",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Theme",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Connecting the Dots Through Docs",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Round1A",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Constraint Requirement",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Your container should",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "After building theimage",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "We will build thedocker image usingthe following command",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CPU architecture",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile toexplicitly specifytheplatform",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Optionally",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Pro Tips",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Any models orlibraries used",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Your approach",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "AREADME",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "All dependenciesinstalled withinthe container",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Submission Checklist",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Total 45",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Japanese)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Bonus",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Multilingual Handling(e",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Points",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Criteria",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Max",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Runtime",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "allowed",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Network",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "No internet access",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(For Sample Input and Output Files",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "please referto the appendix)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "[[Public Dataset Folder]]",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "What Notto Do",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Job",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Persona",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Documents",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case1",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Academic Research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Sample Test Cases",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Summarize thefinancials ofcorporation xyz",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Provide aliterature reviewfor a giventopic andavailable research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Salesperson",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Journalist",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Researcher",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Student",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Research papers",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Document collection",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "So",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Job-to-be-Done",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Concrete taskthe personaneeds toaccomplish",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Role",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Input Specification",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "You will builda system thatacts as anintelligent documentanalyst",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief(For Participants)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Theme",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "“Connect What Matters—For the User Who Matters”",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Round1B",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "No internet accessallowed duringexecution",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Section title",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Page number",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Processing timestamp",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Job to be done",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Input documents",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Metadata",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The output shouldcontain",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Required Output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test Case3",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Educational Content",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test Case2",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Business Analysis",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Quality ofgranular subsection",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "How wellselected sectionsmatch",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Criteria Points Description",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Dockerfile andexecution instructions",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Deliverables",
+      "page": 9
+    }
+  ]
+}
